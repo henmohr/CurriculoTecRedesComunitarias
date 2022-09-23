@@ -11,3 +11,21 @@ Tentativa de descrever um curriculo que guie a formação de técnicos em redes 
 | ------------- | ------------- |
 | 1º        | Nome Disciplina   |
 |           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+| ------------- | ------------- |
+| 2º        | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+| ------------- | ------------- |
+| 2º        | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
+|           | Nome Disciplina   |
