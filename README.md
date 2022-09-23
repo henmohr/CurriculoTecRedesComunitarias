@@ -5,6 +5,7 @@ Tentativa de descrever um curriculo que guie a formação de técnicos em redes 
 ### Organização Curricular
 ### Ensino mediado por TICS
 ### Pesquisa
+### Exemplos ao redor do mundo
 
 
 | Semestre  | Componente Curricular |
